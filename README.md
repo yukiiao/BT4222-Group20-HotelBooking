@@ -2,10 +2,10 @@
 BT4222 Group Project on Hotel Booking Classification
 
 CSV File
-1) Original Dataset 
-2) Pre-Processed Dataset
+1) Original Dataset - hotel_bookings.csv
+2) Pre-Processed Dataset - hotel_bookings_processed.csv
 
 Jupyter Notebook 
-1) Data Pre-processing 
-2) EDA 
+1) Data Pre-processing - BT4222 Data Cleaning.ipynb
+2) EDA - BT4222 EDA.ipynb
 3) Classification Model
