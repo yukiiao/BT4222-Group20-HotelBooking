@@ -8,4 +8,4 @@ CSV Files
 Jupyter Notebooks
 1) Data Pre-processing - BT4222 Data Cleaning.ipynb
 2) EDA - BT4222 EDA.ipynb
-3) Classification Model
+3) Classification Model - BT4222 Classification_model.ipynb
